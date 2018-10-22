@@ -24,7 +24,7 @@ public class AutomationScripts extends ReUsableMethods{
 
 		try
 		{
-
+  //newly added
 			createTestScriptReport("ID01A");
 
 			driver=IntializeDriver("firefox");
