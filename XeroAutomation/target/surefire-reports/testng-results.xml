@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="DriverScriptTest" duration-ms="521464" started-at="2018-10-21T23:26:11Z" finished-at="2018-10-21T23:34:52Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="521464" started-at="2018-10-21T23:26:11Z" finished-at="2018-10-21T23:34:52Z">
+      <class name="DriverScriptTest">
+        <test-method status="PASS" signature="mainMethod()[pri:0, instance:DriverScriptTest@52af6cff]" name="mainMethod" duration-ms="521349" started-at="2018-10-21T23:26:11Z" finished-at="2018-10-21T23:34:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainMethod -->
+      </class> <!-- DriverScriptTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- DriverScriptTest -->
+</testng-results>
