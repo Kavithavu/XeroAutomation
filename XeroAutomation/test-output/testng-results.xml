@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="23455" started-at="2018-10-23T03:48:58Z" finished-at="2018-10-23T03:49:21Z">
+    <groups>
+    </groups>
+    <test name="XeroAutomation" duration-ms="23455" started-at="2018-10-23T03:48:58Z" finished-at="2018-10-23T03:49:21Z">
+      <class name="com.testing.DriverScriptTest">
+        <test-method status="PASS" signature="mainMethod()[pri:0, instance:com.testing.DriverScriptTest@6121c9d6]" name="mainMethod" duration-ms="23417" started-at="2018-10-23T03:48:58Z" finished-at="2018-10-23T03:49:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainMethod -->
+      </class> <!-- com.testing.DriverScriptTest -->
+    </test> <!-- XeroAutomation -->
+  </suite> <!-- Suite1 -->
+</testng-results>
