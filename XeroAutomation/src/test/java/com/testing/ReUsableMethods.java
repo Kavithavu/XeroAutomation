@@ -117,7 +117,7 @@ public class ReUsableMethods {
 
 		System.out.println(reportName+"_"+timeNow+".html");
 
-		htmlReporter = new ExtentHtmlReporter("C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\TestReports\\Extent_Reports\\" + reportName+"_"+timeNow+".html");
+		htmlReporter = new ExtentHtmlReporter("C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\TestReports\\Extent_Reports\\" + reportName+"_"+timeNow+".html");
 
 		extent = new ExtentReports ();
 		extent.attachReporter(htmlReporter);

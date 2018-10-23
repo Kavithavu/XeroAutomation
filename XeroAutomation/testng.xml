@@ -5,9 +5,7 @@
 
    <test name = "XeroAutomation">
       <classes>
-         <class name = "AutomationScripts" />
-         <class name = "ReUsableMethods" />
-         <class name="DriverScripts.java"/>
+         <class name="com.testing.DriverScriptTest"/>
       </classes>
    </test>
   

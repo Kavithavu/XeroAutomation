@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="DriverScriptTest" duration-ms="521464" started-at="2018-10-21T23:26:11Z" finished-at="2018-10-21T23:34:52Z">
+  <suite name="com.testing.DriverScriptTest" duration-ms="25846" started-at="2018-10-23T03:48:00Z" finished-at="2018-10-23T03:48:26Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="521464" started-at="2018-10-21T23:26:11Z" finished-at="2018-10-21T23:34:52Z">
-      <class name="DriverScriptTest">
-        <test-method status="PASS" signature="mainMethod()[pri:0, instance:DriverScriptTest@52af6cff]" name="mainMethod" duration-ms="521349" started-at="2018-10-21T23:26:11Z" finished-at="2018-10-21T23:34:52Z">
+    <test name="Command line test" duration-ms="25846" started-at="2018-10-23T03:48:00Z" finished-at="2018-10-23T03:48:26Z">
+      <class name="com.testing.DriverScriptTest">
+        <test-method status="PASS" signature="mainMethod()[pri:0, instance:com.testing.DriverScriptTest@2c9f9fb0]" name="mainMethod" duration-ms="25814" started-at="2018-10-23T03:48:00Z" finished-at="2018-10-23T03:48:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mainMethod -->
-      </class> <!-- DriverScriptTest -->
+      </class> <!-- com.testing.DriverScriptTest -->
     </test> <!-- Command line test -->
-  </suite> <!-- DriverScriptTest -->
+  </suite> <!-- com.testing.DriverScriptTest -->
 </testng-results>

@@ -17,7 +17,7 @@ public class DriverScriptTest extends AutomationScripts{
 	@Test
 	public static void mainMethod() throws NoSuchMethodException, SecurityException, IllegalAccessException, IllegalArgumentException, InvocationTargetException, IOException {
 
-		String dt_Path="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\src\\test\\resources\\Utility\\XeroTestSuite.xls";
+		String dt_Path="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\src\\test\\resources\\Utility\\XeroTestSuite.xls";
 		String[][] recdata=ReUsableMethods.readSheet(dt_Path,"Sheet1");
 		String testcase=null;
 		String flag=null;

@@ -32,10 +32,10 @@ public class AutomationScripts extends ReUsableMethods{
 			String url=null;
 			String expdata=null;
 
-			String objectRepoPath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\src\\test\\resources\\Utility\\ObjectRepository.Properties";
+			String objectRepoPath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\src\\test\\resources\\Utility\\ObjectRepository.Properties";
 			Properties objPro=loadPropertyFile(objectRepoPath);
 
-			String FilePath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\TestData\\XeroTestData.xls";
+			String FilePath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\TestData\\XeroTestData.xls";
 			System.out.println("im here");
 			String[][] data=readSheet(FilePath, "ID01A");
 			for(int i=1;i<data.length;i++)
@@ -79,10 +79,10 @@ public class AutomationScripts extends ReUsableMethods{
 			String password=null;
 			String url=null;
 			String expdata=null;
-			String objectRepoPath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\src\\test\\resources\\Utility\\ObjectRepository.Properties";
+			String objectRepoPath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\src\\test\\resources\\Utility\\ObjectRepository.Properties";
 			Properties objPro=loadPropertyFile(objectRepoPath);
 
-			String FilePath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\TestData\\XeroTestData.xls";
+			String FilePath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\TestData\\XeroTestData.xls";
 			System.out.println("im here");
 			String[][] data=readSheet(FilePath, "ID01B");
 			for(int i=1;i<data.length;i++)
@@ -125,10 +125,10 @@ public class AutomationScripts extends ReUsableMethods{
 			String url=null;
 			String expdata=null;
 
-			String objectRepoPath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\src\\test\\resources\\Utility\\ObjectRepository.Properties";
+			String objectRepoPath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\src\\test\\resources\\Utility\\ObjectRepository.Properties";
 			Properties objPro=loadPropertyFile(objectRepoPath);
 
-			String FilePath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\TestData\\XeroTestData.xls";
+			String FilePath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\TestData\\XeroTestData.xls";
 			System.out.println("im here");
 			String[][] data=readSheet(FilePath, "ID01B");
 			for(int i=1;i<data.length;i++)
@@ -179,10 +179,10 @@ public class AutomationScripts extends ReUsableMethods{
 			String expdata2=null;
 			String expdata3=null;
 
-			String objectRepoPath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\src\\test\\resources\\Utility\\ObjectRepository.Properties";
+			String objectRepoPath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\src\\test\\resources\\Utility\\ObjectRepository.Properties";
 			Properties objPro=loadPropertyFile(objectRepoPath);
 
-			String FilePath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\TestData\\XeroTestData.xls";
+			String FilePath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\TestData\\XeroTestData.xls";
 			System.out.println("im here");
 			String[][] data=readSheet(FilePath, "ID01D");
 
@@ -259,7 +259,7 @@ public class AutomationScripts extends ReUsableMethods{
 			String phone=null;
 			String country=null;
 
-			String FilePath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\TestData\\XeroTestData.xls";
+			String FilePath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\TestData\\XeroTestData.xls";
 			System.out.println("im here");
 			String[][] data=readSheet(FilePath, "ID02A");
 
@@ -350,7 +350,7 @@ public class AutomationScripts extends ReUsableMethods{
 			String url=null;
 			String expdata1=null;
 
-			String FilePath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\TestData\\XeroTestData.xls";
+			String FilePath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\TestData\\XeroTestData.xls";
 
 			String[][] data=readSheet(FilePath, "ID02B");
 
@@ -470,7 +470,7 @@ public class AutomationScripts extends ReUsableMethods{
 			String url=null;
 			String expdata1=null;
 
-			String FilePath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\TestData\\XeroTestData.xls";
+			String FilePath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\TestData\\XeroTestData.xls";
 			String[][] data=readSheet(FilePath, "ID02C");
 
 			for(int i=1;i<data.length;i++)
@@ -597,7 +597,7 @@ public class AutomationScripts extends ReUsableMethods{
 			String expdata1=null;
 			String expdata2=null;
 
-			String FilePath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\TestData\\XeroTestData.xls";
+			String FilePath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\TestData\\XeroTestData.xls";
 			String[][] data=readSheet(FilePath, "ID02D");
 
 			for(int i=1;i<data.length;i++)
@@ -694,7 +694,7 @@ public class AutomationScripts extends ReUsableMethods{
 			String expdata1=null;
 			String expdata2=null;
 
-			String FilePath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\TestData\\XeroTestData.xls";
+			String FilePath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\TestData\\XeroTestData.xls";
 			String[][] data=readSheet(FilePath, "ID02E");
 
 			for(int i=1;i<data.length;i++)
@@ -775,10 +775,10 @@ public class AutomationScripts extends ReUsableMethods{
 			String url=null;
 			String expdata=null;
 
-			String objectRepoPath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\src\\test\\resources\\Utility\\ObjectRepository.Properties";
+			String objectRepoPath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\src\\test\\resources\\Utility\\ObjectRepository.Properties";
 			Properties objPro=loadPropertyFile(objectRepoPath);
 
-			String FilePath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\TestData\\XeroTestData.xls";
+			String FilePath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\TestData\\XeroTestData.xls";
 			System.out.println("im here");
 			String[][] data=readSheet(FilePath, "ID03A");
 			for(int i=1;i<data.length;i++)
@@ -878,10 +878,10 @@ public class AutomationScripts extends ReUsableMethods{
 			String url=null;
 			String expdata=null;
 
-			String objectRepoPath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\src\\test\\resources\\Utility\\ObjectRepository.Properties";
+			String objectRepoPath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\src\\test\\resources\\Utility\\ObjectRepository.Properties";
 			Properties objPro=loadPropertyFile(objectRepoPath);
 
-			String FilePath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\TestData\\XeroTestData.xls";
+			String FilePath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\TestData\\XeroTestData.xls";
 			System.out.println("im here");
 			String[][] data=readSheet(FilePath, "ID04A");
 			for(int i=1;i<data.length;i++)
@@ -941,10 +941,10 @@ public class AutomationScripts extends ReUsableMethods{
 			String url=null;
 			String expdata=null;
 
-			String objectRepoPath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\src\\test\\resources\\Utility\\ObjectRepository.Properties";
+			String objectRepoPath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\src\\test\\resources\\Utility\\ObjectRepository.Properties";
 			Properties objPro=loadPropertyFile(objectRepoPath);
 
-			String FilePath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\TestData\\XeroTestData.xls";
+			String FilePath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\TestData\\XeroTestData.xls";
 			System.out.println("im here");
 			String[][] data=readSheet(FilePath, "ID06A");
 			for(int i=1;i<data.length;i++)
@@ -1025,7 +1025,7 @@ public class AutomationScripts extends ReUsableMethods{
 			String url="https://www.xero.com";
 			String expdata1=null;
 
-			String FilePath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\TestData\\XeroTestData.xls";
+			String FilePath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\TestData\\XeroTestData.xls";
 
 			//		String[][] data=readSheet(FilePath, "ID08A");
 
@@ -1117,7 +1117,7 @@ public class AutomationScripts extends ReUsableMethods{
 			String url="https://www.xero.com";
 			String expdata1=null;
 
-			String FilePath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\TestData\\XeroTestData.xls";
+			String FilePath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\TestData\\XeroTestData.xls";
 
 			//		String[][] data=readSheet(FilePath, "ID08A");
 
@@ -1212,10 +1212,10 @@ public class AutomationScripts extends ReUsableMethods{
 			String url=null;
 			String expdata=null;
 
-			String objectRepoPath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\src\\test\\resources\\Utility\\ObjectRepository.Properties";
+			String objectRepoPath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\src\\test\\resources\\Utility\\ObjectRepository.Properties";
 			Properties objPro=loadPropertyFile(objectRepoPath);
 
-			String FilePath="C:\\Kavitha\\Udemy_Workspace\\JavaQaTraining\\XeroAutomation\\TestData\\XeroTestData.xls";
+			String FilePath="C:\\Users\\kavit\\git\\XeroAutomation\\XeroAutomation\\TestData\\XeroTestData.xls";
 			System.out.println("im here");
 			String[][] data=readSheet(FilePath, "ID10A");
 			for(int i=1;i<data.length;i++)
